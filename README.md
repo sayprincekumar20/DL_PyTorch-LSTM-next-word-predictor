@@ -1,6 +1,6 @@
-# DL_PyTorch-LSTM-next-word-predictor
 
-PyTorch LSTM Next Word Predictor
+
+DL PyTorch LSTM Next Word Predictor
 ================================
 
 This project demonstrates how to build and train a next-word prediction model using an LSTM neural network in PyTorch. 
